@@ -1,0 +1,36 @@
+p {
+    color: #123F91;
+}
+
+h1 {
+    border-bottom: 2px ;
+}
+
+.img-section {
+    width: 300px;
+    padding: 0 20px;
+    margin: 0 -20px;
+}
+
+.list {
+    list-style: none;  
+    align-self: flex-end;  
+}
+
+.link {
+    text-decoration: none;
+}
+
+.link-content {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+#letra {
+    text-decoration: none;
+    border-bottom: 2px solid #123F91;
+    font-size: 25px;
+    color: #000;
+    font-weight: 700;
+}
